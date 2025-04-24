@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and informatics, particularly when it comes to healthcare
 - 🌱 I’m currently learning python, R, STATA, SQL
 - 💞️ I’m looking to collaborate on learning opportunities to grow my skillset or network!
-- 📫 How to reach me: morri.mahady@gmail.com
+- 📫 How to reach me: anmorrigan@proton.me
 
 <!---
 corvidfox/corvidfox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
