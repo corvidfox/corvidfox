@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @corvidfox - I am an RN studying a MPH program in Epidemiology, considering certificates data science, bioinformatics, and genomics!
-- 👀 I’m interested in data science and informatics, particularly when it comes to healthcare
-- 🌱 I’m currently learning python, R, STATA, SQL
-- 💞️ I’m looking to collaborate on learning opportunities to grow my skillset or network!
-- 📫 How to reach me: anmorrigan@proton.me
+# Hi, I'm Morrigan!
 
-<!---
-corvidfox/corvidfox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a healthcare researcher and data analyst with a background in genomics, bioinformatics, and nursing. My work blends data exploration with strategic storytelling — translating complex questions into actionable insights using R, Python, and SQL.
+
+# Current focus:  
+- Applied analytics across healthcare, finance, and life sciences  
+- Genomic data workflows and bioinformatics tools  
+- Dashboard development with R Shiny, Quarto, and Tableau  
+
+# Explore my portfolio:  
+My personal website [corvidfox.github.io](https://corvidfox.github.io/): a curated collection of dashboards, reports, and applied analytics projects.
+
+# I'm actively seeking opportunities in:  
+- Bioinformatics & omics research  
+- Health tech & clinical data  
+- Financial analytics & strategic reporting  
+- Data science & analytics
+
+# Let’s connect:  
+[LinkedIn]([https://linkedin.com/in/your-handle](https://www.linkedin.com/in/morrigan-mahady-6b640712b/)) • [GitHub](https://github.com/corvidfox) • [Email](anmorrigan@proton.me)
+
+🐾 Bonus: Meet Lucy, Head of Morale — she's in charge of making sure my code stays bug-free and my days stay cheerful.
