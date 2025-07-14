@@ -8,7 +8,7 @@ I'm a healthcare researcher and data analyst with a background in genomics, bioi
 - Dashboard development with R Shiny, Quarto, and Tableau  
 
 ### Explore my portfolio:  
-My personal website [corvidfox.github.io](https://corvidfox.github.io/): a curated collection of dashboards, reports, and applied analytics projects.
+My personal website [corvidfox.github.io](https://corvidfox.github.io/) is a curated collection of dashboards, reports, and applied analytics projects. Learn more about me and what I can bring to your project.
 
 ### I'm actively seeking opportunities in:  
 - Bioinformatics & omics research  
