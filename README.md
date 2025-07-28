@@ -17,7 +17,7 @@ My personal website [corvidfox.github.io](https://corvidfox.github.io/) is a cur
 - Data science & analytics
 
 ### Let’s connect:  
-[LinkedIn]([https://linkedin.com/in/your-handle](https://www.linkedin.com/in/morrigan-mahady-6b640712b/)) • [GitHub](https://github.com/corvidfox) • [Email](anmorrigan@proton.me)
+[LinkedIn]([https://linkedin.com/in/your-handle](https://www.linkedin.com/in/morrigan-mahady-6b640712b/) • [GitHub](https://github.com/corvidfox) • [Email](anmorrigan@proton.me)
 
 🐾 Bonus: Meet Lucy, Head of Morale — she's in charge of making sure my code stays bug-free and my days stay cheerful.
 
